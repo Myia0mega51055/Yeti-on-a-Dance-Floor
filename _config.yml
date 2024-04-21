@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Yeti on a Dance Floor!
 description: ITS A YETI ON A DANCE FLOOR!
 baseurl: "/Yeti-on-a-Dance-Floor/sample"
+<a href="{{ site.baseurl }}/index.html">Link Text</a>
